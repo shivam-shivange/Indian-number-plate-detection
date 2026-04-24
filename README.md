@@ -9,10 +9,10 @@ Correctly detected number plates:-
 <img width="614" height="311" alt="image" src="https://github.com/user-attachments/assets/fc3ab031-4d5f-4aaf-b465-22aed93c87ed" />
 
 Wrongly detected number plates:-
-<img width="658" height="316" alt="image" src="https://github.com/user-at<img width="658" height="316" alt="image" src="https://github.com/user-attachments/assets/bedf916f-8454-45bf-a304-415adda52f91" />
-tachments/assets/6f54c00b-bc01-468c-949d-aeaf18a6a7c4" />
-<img width="658" height="316" alt="image" src="https://github.com/user-attachments/assets/a5d97366-9e71-47a3-ac01-9eadb009ee76" />
-<img width="658" height="316" alt="image" src="https://github.com/user-attachments/assets/8fa3f37e-dff0-4389-ba6d-a2bbe69114d6" />
+<img width="640" height="307" alt="image" src="https://github.com/user-attachments/assets/f20fc7f1-463c-42ee-bebd-746e56e52608" />
+<img width="642" height="308" alt="image" src="https://github.com/user-attachments/assets/5a41ef76-e207-4a4c-9428-c0f5dc7ab449" />
+<img width="576" height="276" alt="image" src="https://github.com/user-attachments/assets/69dcbf7c-961c-43d1-826d-8e1e7a1e51f6" />
+
 
     
 
