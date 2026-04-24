@@ -18,18 +18,31 @@ Wrongly detected number plates:-
 
 Methodology followed :-
 •	Dataset is loaded using image and XML annotation files.
+
 •	Images are preprocessed using grayscale conversion and resizing.
+
 •	Noise is reduced using Gaussian blur.
+
 •	Segmentation is applied using thresholding and edge detection.
+
 •	Region growing is used to analyze connected regions.
+
 •	Harris corner detection is used to detect structural points.
+
 •	Edge detection is used to extract contours from images.
+
 •	Contours are filtered based on size and aspect ratio.
+
 •	Candidate plate regions are generated from contours.
+
 •	OCR is applied to each candidate region.
+
 •	Best region is selected based on valid text output.
+
 •	Plate region is cropped and enhanced.
+
 •	OCR extracts final number plate text.
+
 •	Results are displayed with detected plate and text.
 
 Conclusion / Interpretation :
