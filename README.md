@@ -5,7 +5,8 @@ Number plate recognition is an important application of computer vision used in 
 
 Correctly detected number plates:- 
      <img width="658" height="316" alt="image" src="https://github.com/user-attachments/assets/f5952c2f-71fd-4607-8bbf-d93242e708e1" />
-<img width="658" height="316" alt="image" src="https://github.com/user-attachments/assets/fbf5f179-996e-4887-9932-96b33ee88670" />
+<img width="642" height="308" alt="image" src="https://github.com/user-attachments/assets/1d09b812-d4ae-47c9-9722-7e79634f1a90" />
+
 <img width="658" height="316" alt="image" src="https://github.com/user-attachments/assets/24d7b437-053c-4b3a-8619-e27e5a9f3529" />
 <img width="658" height="316" alt="image" src="https://github.com/user-attachments/assets/88381a40-12f6-4b0e-9eb8-072fb88ca078" />
 <img width="658" height="316" alt="image" src="https://github.com/user-attachments/assets/abcb901b-e4bc-48b9-be01-fad79b50738f" />
